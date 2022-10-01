@@ -1,0 +1,7 @@
+enrique;1234;mindundi
+jose;5678;admin
+julio;3456;mindundi
+mario;9876;mindundi
+manu;3467;mindundi
+alex;1111;mindundi
+manolo;2222;admin
